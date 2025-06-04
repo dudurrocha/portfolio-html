@@ -1,1 +1,2 @@
-![diagrama](https://github.com/user-attachments/assets/66ccb61e-a63f-4d32-9a56-48582e708117)
+
+![deepseek_mermaid_20250603_ac9376](https://github.com/user-attachments/assets/297a1727-7317-4028-8d30-bdbf9c968b1a)
